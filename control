@@ -1,0 +1,9 @@
+Package: cz.muni.locationspoofertweak
+Name: LocationSpooferTweak
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Tweak for the application LocationSpoofer.
+Maintainer: Richard Ondrejka
+Author: Richard Ondrejka
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
