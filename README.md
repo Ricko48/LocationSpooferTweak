@@ -1,2 +1,2 @@
 # LocationSpooferTweak
-Theos tweak for the application LocationSpoofer.
+Theos tweak for the application [LocationSpoofer](https://github.com/Ricko48/LocationSpoofer).
